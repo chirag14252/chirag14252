@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SocketIO**
 
-- 👨‍💻 All of my projects are available at [https://chirag.shop/](https://chirag.shop/)
+- 👨‍💻 All of my projects are available at [www.chirag.com](https://chirag.shop/)
 
 - 💬 Ask me about **React,NodeJS,Express**
 
