@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/chibhardwaj" target="blank"><img src="https://img.shields.io/twitter/follow/chibhardwaj?logo=twitter&style=for-the-badge" alt="chibhardwaj" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **OrderApp Application**
 
-- 🌱 I’m currently learning **SocketIO**
+- 🌱 I’m currently exploring **Libraries of NPM**
 
 - 👨‍💻 All of my projects are available at [www.chirag.com](https://chirag.shop/)
 
-- 💬 Ask me about **React,NodeJS,Express**
+- 💬 Ask me about **React,NodeJS,Express.js,MongoDB**
 
 - 📫 How to reach me **chi.chiragbhardwaj@gmail.com**
 
