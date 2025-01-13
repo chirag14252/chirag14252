@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently Learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [www.chirag.com](https://chirag.shop/)
-
 - 💬 Ask me about **React,NodeJS,Express.js,MongoDB**
 
 - 📫 How to reach me **chi.chiragbhardwaj@gmail.com**
